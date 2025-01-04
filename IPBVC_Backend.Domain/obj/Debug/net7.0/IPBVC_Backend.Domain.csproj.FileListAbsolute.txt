@@ -1,0 +1,14 @@
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Domain\bin\Debug\net7.0\IPBVC_Backend.Domain.deps.json
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Domain\bin\Debug\net7.0\IPBVC_Backend.Domain.runtimeconfig.json
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Domain\bin\Debug\net7.0\IPBVC_Backend.Domain.dll
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Domain\bin\Debug\net7.0\IPBVC_Backend.Domain.pdb
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Domain\obj\Debug\net7.0\IPBVC_Backend.Domain.csproj.AssemblyReference.cache
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Domain\obj\Debug\net7.0\IPBVC_Backend.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Domain\obj\Debug\net7.0\IPBVC_Backend.Domain.AssemblyInfoInputs.cache
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Domain\obj\Debug\net7.0\IPBVC_Backend.Domain.AssemblyInfo.cs
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Domain\obj\Debug\net7.0\IPBVC_Backend.Domain.csproj.CoreCompileInputs.cache
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Domain\obj\Debug\net7.0\IPBVC_Backend.Domain.dll
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Domain\obj\Debug\net7.0\refint\IPBVC_Backend.Domain.dll
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Domain\obj\Debug\net7.0\IPBVC_Backend.Domain.pdb
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Domain\obj\Debug\net7.0\IPBVC_Backend.Domain.genruntimeconfig.cache
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Domain\obj\Debug\net7.0\ref\IPBVC_Backend.Domain.dll

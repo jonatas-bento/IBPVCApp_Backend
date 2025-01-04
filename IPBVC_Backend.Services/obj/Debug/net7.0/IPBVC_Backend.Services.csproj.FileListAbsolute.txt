@@ -1,0 +1,17 @@
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Services\bin\Debug\net7.0\IPBVC_Backend.Services.deps.json
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Services\bin\Debug\net7.0\IPBVC_Backend.Services.dll
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Services\bin\Debug\net7.0\IPBVC_Backend.Services.pdb
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Services\bin\Debug\net7.0\IPBVC_Backend.Domain.dll
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Services\bin\Debug\net7.0\IPBVC_Backend.Domain.pdb
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Services\obj\Debug\net7.0\IPBVC_Backend.Services.csproj.AssemblyReference.cache
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Services\obj\Debug\net7.0\IPBVC_Backend.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Services\obj\Debug\net7.0\IPBVC_Backend.Services.AssemblyInfoInputs.cache
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Services\obj\Debug\net7.0\IPBVC_Backend.Services.AssemblyInfo.cs
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Services\obj\Debug\net7.0\IPBVC_Backend.Services.csproj.CoreCompileInputs.cache
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Services\obj\Debug\net7.0\IPBVC_Backend.Services.csproj.CopyComplete
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Services\obj\Debug\net7.0\IPBVC_Backend.Services.dll
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Services\obj\Debug\net7.0\refint\IPBVC_Backend.Services.dll
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Services\obj\Debug\net7.0\IPBVC_Backend.Services.pdb
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Services\obj\Debug\net7.0\ref\IPBVC_Backend.Services.dll
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Services\bin\Debug\net7.0\IPBVC_Backend.Services.runtimeconfig.json
+C:\TIMBrasil\Projetos\APPs\IPBVC_Backend\IPBVC_Backend.Services\obj\Debug\net7.0\IPBVC_Backend.Services.genruntimeconfig.cache
